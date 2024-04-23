@@ -1,4 +1,4 @@
-<h3>Compte Rendu TP3 Partie 1</h3>
+<h2>Compte Rendu TP3 Partie 1</h2>
 <p>
 Spring MVC Architecture<br>
 <center><img src="assets/0.png"></center>
@@ -59,3 +59,40 @@ Resultat:
 <center><img src="assets/Del1.PNG"></center>
 <center><img src="assets/Del2.PNG"></center>
 <center><img src="assets/Del3.PNG"></center>
+
+<h2>Partie 2</h2>
+<h3>1-Créer une page template</h3>
+<img src="assets/template1.PNG">
+<img src="assets/template2.PNG">
+Résultat:
+<img src="assets/Drop_DownList.PNG">
+
+<h3>2-Ajout d'un formulaire et de la méthode save:</h3>
+<img src="assets/HTML_Formulaire.PNG">
+<img src="assets/Patient_save.PNG">
+Résultat:
+<img src="assets/Formulaire_Patient.PNG">
+
+
+<h3>3-Tester l'ajout d'un patient à partir du formulaire:</h3>
+<img src="assets/Formulaire_Ajout.PNG">
+<img src="assets/ajout_Patient.PNG">
+
+<h3>4-Faire la validation du formulaire:<br></h3>
++ Ajout des dépendances
+  <img src="assets/Validation.PNG">
++ Ajout des Annotations à la classe Patient:
+  <img src="assets/Class_Patient_Valid.PNG">
++ Ajout de l'annotation Valid au Controller:
+  <img src="assets/Valid_annot.PNG">
+
+<h3>5-Ajout du formulaire d'édition:</h3>
+<img src="assets/Edit_HTML.PNG">
+Résultat
+<img src="assets/Edit_Final.PNG">
+<img src="assets/Apres_Edit.PNG">
+
+
+
+
+
